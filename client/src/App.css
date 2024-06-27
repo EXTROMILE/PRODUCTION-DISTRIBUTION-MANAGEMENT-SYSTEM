@@ -1,0 +1,67 @@
+.add_btn {
+  text-align: right;
+}
+
+
+
+.button {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+thead {
+  text-align: center;
+}
+
+tbody {
+  text-align: center;
+}
+
+.container {
+  /* scroll bar for responsiveness */
+  overflow: auto; 
+  
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.left_view p {
+  font-weight: 600;
+}
+
+.left_view span {
+  font-weight: 400;
+}
+
+.right_view h3{
+  font-size: 21px;
+}
+
+.right_view p {
+  font-weight: 600;
+}
+
+.right_view span {
+  font-weight: 400;
+}
+
+
+.cardcontainer {
+  margin-top: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px black;
+}
+
+tbody {
+  font-weight: 600;
+}
+
+
+.editButton {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
